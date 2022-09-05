@@ -1,1 +1,1 @@
-Script that decribes redirections commands
+0x02. Shell, I/O Redirections and filters
